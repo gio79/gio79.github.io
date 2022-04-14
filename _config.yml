@@ -9,7 +9,7 @@
 title: Giovanni Riganti
 
 # Your name to show in the footer
-author: Gio79n
+author: Gio79
 
 # --- List of links in the navigation bar --- #
 
@@ -58,7 +58,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Gio79 Web
+rss-description: Gio79 Web Site
 
 # --- General options --- #
 
@@ -86,7 +86,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "giovanni riganti,gio79"
 
 # --- Colours / background image --- #
 
